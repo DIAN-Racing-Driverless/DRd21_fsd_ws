@@ -1,0 +1,15 @@
+cluster_filtered_topic_name: /perception/livox_cluster
+
+transform_matrix_topic_name: /planning/transform_matrix
+
+path:
+  skidpad_map: /home/dian/Documents/Kohldyh/DRd21_fsd_ws/src/skidpad_detector/config/skidpad.pcd
+  path_x: /home/dian/Documents/Kohldyh/DRd21_fsd_ws/src/skidpad_detector/config/path_x.txt
+  path_y: /home/dian/Documents/Kohldyh/DRd21_fsd_ws/src/skidpad_detector/config/path_y.txt
+
+length:
+  start: 16.0
+  lidar2imu: 0 #1.8
+  threshold: 2
+
+node_rate: 50   # [Herz]

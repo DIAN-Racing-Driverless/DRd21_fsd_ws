@@ -1,0 +1,38 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/home/dian/Documents/Kohldyh/fsd_ws/devel/include/**",
+        "/home/dian/Documents/ws_livox/devel/include/**",
+        "/opt/ros/melodic/include/**",
+        "/home/dian/Documents/Kohldyh/fsd_ws/src/acc_skid/include/**",
+        "/home/dian/Documents/Kohldyh/fsd_ws/src/fsd_algorithm/planning/boundary_detector/include/**",
+        "/home/dian/Documents/Kohldyh/fsd_ws/src/cone_detector/include/**",
+        "/home/dian/Documents/Kohldyh/DRd21_fsd_ws/src/control/include/**",
+        "/home/dian/Documents/Kohldyh/fsd_ws/src/fsd_algorithm/common/fsd_tools/include/**",
+        "/home/dian/Documents/Kohldyh/fsd_ws/src/fsd_algorithm/fssim_interface/include/**",
+        "/home/dian/Documents/Kohldyh/fsd_ws/src/LeGO-LOAM-master/LeGO-LOAM/include/**",
+        "/home/dian/Documents/Kohldyh/fsd_ws/src/fsd_algorithm/perception/lidar_cluster/include/**",
+        "/home/dian/Documents/Kohldyh/DRd21_fsd_ws/src/line_detector/include/**",
+        "/home/dian/Documents/ws_livox/src/LIO-Livox-master/include/**",
+        "/home/dian/Documents/Kohldyh/DRd21_fsd_ws/src/livox_cluster/include/**",
+        "/home/dian/Documents/ws_livox/src/loam_livox-master/include/**",
+        "/home/dian/Documents/Kohldyh/fsd_ws/src/fsd_algorithm/estimation/loam_velodyne/include/**",
+        "/home/dian/Documents/Kohldyh/fsd_ws/src/perception_interface/include/**",
+        "/home/dian/Documents/Kohldyh/fsd_ws/src/fsd_algorithm/estimation/robot_localization/include/**",
+        "/home/dian/Documents/Kohldyh/DRd21_fsd_ws/src/skidpad_detector/include/**",
+        "/home/dian/Documents/Kohldyh/fsd_ws/src/slam_interface/include/**",
+        "/home/dian/Documents/Kohldyh/fsd_ws/src/slammapping/include/**",
+        "/home/dian/Documents/Kohldyh/fsd_ws/src/track_control/include/**",
+        "/home/dian/Documents/Kohldyh/fsd_ws/src/visualization/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS"
+    }
+  ],
+  "version": 4
+}

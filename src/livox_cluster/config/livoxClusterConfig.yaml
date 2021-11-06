@@ -1,0 +1,5 @@
+rawDataTopic: /livox/lidar
+
+clusteredDataTopic: /perception/livox_cluster
+
+nodeRate: 10   # [Hz]

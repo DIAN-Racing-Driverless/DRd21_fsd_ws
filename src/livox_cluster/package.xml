@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>livox_cluster</name>
+  <version>0.0.1</version>
+  <description>LiDAR Perception Module of DRd21</description>
+  <maintainer email="zhouxiao@dianracing.com">Sean Zhou</maintainer>
+  <license>BSD</license>
+
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <!--For custom message import-->
+
+  <!--Other depends-->
+  <depend>roscpp</depend>
+  <depend>std_msgs</depend>
+  <depend>geometry_msgs</depend>
+  <depend>pcl_conversions</depend>
+  <depend>pcl_msgs</depend>
+  <depend>pcl_ros</depend>
+  <depend>message_filters</depend>
+
+
+  <export>
+  </export>
+</package>

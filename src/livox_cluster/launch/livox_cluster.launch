@@ -1,0 +1,4 @@
+<launch>
+    <node name="livox_cluster_node" pkg="livox_cluster" type="livox_cluster" output="screen">
+    </node>
+</launch>
