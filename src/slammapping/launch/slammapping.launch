@@ -1,0 +1,4 @@
+<launch>
+    <node name="slammapping" pkg="slammapping" type="slammapping" output="screen">     
+    </node>   
+</launch>

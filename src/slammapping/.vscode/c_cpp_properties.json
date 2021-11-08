@@ -1,0 +1,20 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/home/hoginhang/Demo_test/devel/include/**",
+        "/opt/ros/melodic/include/**",
+        "/home/hoginhang/catkin_ws/src/mbot_bringup/include/**",
+        "/home/hoginhang/Demo_test/src/slammapping/include/**",
+        "/home/hoginhang/catkin_ws/src/test_pkg/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS"
+    }
+  ],
+  "version": 4
+}
